@@ -1,0 +1,14 @@
+..\..\output\sockets.o: ..\..\Middlewares\lwip\src\api\sockets.c
+..\..\output\sockets.o: ..\..\Middlewares\lwip\src\include\lwip/opt.h
+..\..\output\sockets.o: ..\..\Middlewares\lwip\arch\lwipopts.h
+..\..\output\sockets.o: ..\..\Middlewares\lwip\src\include\lwip/debug.h
+..\..\output\sockets.o: ..\..\Middlewares\lwip\src\include\lwip/arch.h
+..\..\output\sockets.o: ..\..\Middlewares\lwip\arch/cc.h
+..\..\output\sockets.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\sockets.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\sockets.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\sockets.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\sockets.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+..\..\output\sockets.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\..\output\sockets.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\..\output\sockets.o: ..\..\Middlewares\lwip\src\include\lwip/opt.h
